@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  background-color:rgb(58, 0, 124);
+}
+.main{
+  display: flex;
+  align-items: center;
+}
+.section{        /*contains the child components*/
+  height: 100vh;
+  width: 100%;
+  color: white;
+}

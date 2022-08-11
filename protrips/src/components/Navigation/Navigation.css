@@ -1,0 +1,12 @@
+.symbols{
+    font-size: x-large;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -10px;
+    font-weight: 900;
+}
+
+.HELLO{
+    padding: 50px;
+}

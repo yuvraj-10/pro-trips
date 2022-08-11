@@ -1,0 +1,22 @@
+.home{
+    font-weight: bold;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: -10px;
+}
+.home div{
+    font-size: xx-large;
+}
+.home div b{
+    font-size:small;
+}
+.trek_details{
+    margin-top: 10px;
+    display: flex;
+    width:500px;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}

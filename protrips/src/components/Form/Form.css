@@ -1,0 +1,36 @@
+.form{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.form>div:first-child{
+    font-size: xx-large;
+    font-weight: bold;
+}
+#forms{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+#forms>input,select{
+    color: white;
+    outline: none;
+    border: 2px solid white;
+    width: 250px;
+}
+#forms>button{
+    color: white;
+    outline: none;
+    width:100px;
+    height: 30px;
+    border: 1px solid white;
+    align-self: center;
+    cursor: pointer;
+}
+#forms>div{
+   font-weight: bold;
+}  
